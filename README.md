@@ -70,8 +70,8 @@
 </p>
 
 - 👋 Hi, I’m @jbock81
-- 👀 I’m interested in blockchain and full-stack technology
-- 🌱 I’m currently learning Rust
+- 👀 I’m interested in JavaScript frameworks and libraries.
+- 🌱 I’m currently learning Next.js and Nuxt.js.
 - 💞️ I’m looking to collaborate on open-source projects.
 
 <!---
